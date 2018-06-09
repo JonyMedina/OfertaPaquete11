@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="OfertaPaquete11-EJB">
-        <wb-resource deploy-path="/" source-path="/ejbModule" tag="defaultRootSource"/>
-        <property name="java-output-path" value="/OfertaPaquete11-EJB/build/classes"/>
-        <property name="ClientProject" value="OfertaPaquete11-EJBClient"/>
-    </wb-module>
-</project-modules>

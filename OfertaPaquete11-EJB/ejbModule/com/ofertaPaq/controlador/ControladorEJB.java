@@ -1,0 +1,24 @@
+package com.ofertaPaq.controlador;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
+
+import com.ofertaPaq.integraciones.ToPortalWebProducer;
+
+@Stateless
+@LocalBean
+public class ControladorEJB implements ControladorEJBRemote, ControladorEJBLocal {
+
+    public ControladorEJB() {
+
+    }
+
+    
+    //Este metodo esta solo como referencia para encolar los mensajes que van al portalWeb
+    public void llamadaAlProducer(){
+        final String text = "Hello, JMS!";
+       new ToPortalWebProducer().enqueue(text);
+    }
+    
+    
+}

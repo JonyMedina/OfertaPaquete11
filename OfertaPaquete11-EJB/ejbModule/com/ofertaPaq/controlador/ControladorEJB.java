@@ -5,6 +5,13 @@ import javax.ejb.Stateless;
 
 import com.ofertaPaq.integraciones.ToPortalWebProducer;
 
+
+//
+//
+//  ESTA CLASE NO SE USA, SE USA EL OfertaPaqueteFacade
+//
+
+
 @Stateless
 @LocalBean
 public class ControladorEJB implements ControladorEJBRemote, ControladorEJBLocal {

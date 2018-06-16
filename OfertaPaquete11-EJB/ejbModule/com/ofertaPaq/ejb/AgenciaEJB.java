@@ -1,5 +1,10 @@
 package com.ofertaPaq.ejb;
 
+/*
+
+	ESTA CLASE NO SE USA, SE USAN LAS QUE EMPIEZAN CON ADM
+
+*/
 import javax.ejb.LocalBean;
 import javax.ejb.Stateless;
 

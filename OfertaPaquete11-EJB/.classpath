@@ -13,5 +13,7 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="C:/Users/jonamedina/Desktop/IA2018/tools/wildfly-9.0.2.Final/modules/system/layers/base/org/apache/commons/io/main/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/gson-2.8.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="gson-2.2.4.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

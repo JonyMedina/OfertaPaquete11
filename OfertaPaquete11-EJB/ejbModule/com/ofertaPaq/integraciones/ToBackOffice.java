@@ -1,5 +1,13 @@
 package com.ofertaPaq.integraciones;
 
+
+/*
+ * 
+ * NO USAR ESTA CLASE, SE REEMPLAZA POR MensajeriaRest
+ * 
+ */
+
+
 import javax.ejb.LocalBean;
 import javax.ejb.Stateless;
 

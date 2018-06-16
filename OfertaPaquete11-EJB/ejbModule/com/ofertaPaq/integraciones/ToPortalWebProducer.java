@@ -1,5 +1,10 @@
 package com.ofertaPaq.integraciones;
 
+/*
+ * 
+ * ESTA YA NO SE USA, UTILIZAR OfertasProductor PARA ENVIAR AL PORTALWEB
+ * 
+ */
 import javax.annotation.Resource;
 import javax.ejb.LocalBean;
 import javax.ejb.Stateless;
